@@ -98,20 +98,26 @@ Typical files created by the notebook (check the final cells):
 
 
 <img width="633" height="687" alt="image" src="https://github.com/user-attachments/assets/610ec61c-5eaa-4350-a3ea-1b396e28306a" />
+
 *Figure: Model performance comparison (SVM / EBM / RF / XGBoost).*
 
+
+
 <img width="852" height="410" alt="image" src="https://github.com/user-attachments/assets/0ffb34d3-e11b-4201-add3-d515109006b7" />
+
 *Figure: Example fairness-related metrics or group-level comparisons.*
+
+
 
 <img width="667" height="471" alt="image" src="https://github.com/user-attachments/assets/a7756234-ccaa-4830-a854-8cc1c8ea5e1d" />
 
 *Figure: Tuned EBM ROC curve and confusion matrix visuals.*
 
+
+
 <img width="633" height="687" alt="image" src="https://github.com/user-attachments/assets/b38d8bc7-d418-4da4-b42d-90ae70c8cdf4" />
 
 *Figure: SHAP/feature importance summary (example).*
-
-> **Note:** Filenames here match the exported notebook outputs. If you move images into an `images/` folder in your repo, update the image paths accordingly.
 
 ---
 
