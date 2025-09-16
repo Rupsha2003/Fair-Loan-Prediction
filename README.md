@@ -119,6 +119,17 @@ Typical files created by the notebook (check the final cells):
 
 *Figure: SHAP/feature importance summary (example).*
 
+
+
+<img width="702" height="817" alt="image" src="https://github.com/user-attachments/assets/15435439-a847-4c88-a0ba-e31d66ea0b00" />
+<img width="700" height="677" alt="image" src="https://github.com/user-attachments/assets/b68dd4c4-24a9-491b-9199-90a0c7bd72ab" />
+
+*Figure: Screenshot of the app when a candidate’s loan is approved.It predicts whether a candidate's loan will be approved based
+on the following input features: Age: 35, Gender: Female, Distance from Company: 10, Credit Score: 750; Income: ₹8LPA; Type of Employment: Full-time; Dependents: 1; Default History: 0;
+Property Area: Urban. The model predicts loan approval with a probability of 0.52 based on these inputs.
+
+
+
 ---
 
 ## 🛠️ How to Reproduce / Run Locally
